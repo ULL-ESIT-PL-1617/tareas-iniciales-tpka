@@ -23,5 +23,10 @@ Una característica fantástica de Atom es que te permite tener un explorador ab
 ### Paquetes
 
 Atom tiene por defecto los paquetes necesarios para ofrecer una buena funcionalidad. Sin embargo Atom se apoya fuertemente en su comunidad de usuarios, estos pueden crear toda clase de paquetes y temas, y ofrecerlos al resto de usuarios interesados.
+
 En el apartado *Install* dentro del menú de ajustes podemos encontrar el buscador con el que podremos buscar los paquetes que nos interesen.
+
 Un paquete esencial en atom es ***linter***, éste nos permite interpretar el código más fácilmente. Lo que hace es analizar la sintaxis del programa, colorear las palabras claves e incluso indicar errores de sintaxis.
+
+
+Ahora deberías tener un conocimiento básico de Atom y de cómo usarlo. También deberías ser capaza de instalarlo y realizar las operaciones de edición texto más básicas.
