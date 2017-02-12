@@ -6,4 +6,6 @@ Antes de nada, necesitamos descargar el instalador de Atom desde la página http
 
 Ahora debemos ejecutar el instalador que nos hemos descargado. El proceso es extremadamente simple y no tardará más de 1 minuto en instalar.
 
-Al abrir Atom por primera vez nos saldrá esta ventana.
+Al abrir Atom por primera vez nos saldrá una ventana ofreciendo una serie de opciones como abrir un proyecto, instalar un paquete, ...
+
+<kbd>Cmd+Shift+P</kbd>
