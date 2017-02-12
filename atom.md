@@ -8,4 +8,4 @@ Ahora debemos ejecutar el instalador que nos hemos descargado. El proceso es ext
 
 Al abrir Atom por primera vez nos saldrá una ventana ofreciendo una serie de opciones como abrir un proyecto, instalar un paquete, ...
 
-<kbd>Cmd+Shift+P</kbd>
+Cmd+Shift+P
