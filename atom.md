@@ -12,4 +12,16 @@ Atom ofrece una herramienta muy útil y cómoda llamada *Command Palette*. Si pr
 
 ![](http://flight-manual.atom.io/getting-started/images/command-palette.png)
 
-Dicho esto, es recomendable comprobar los ajustes del programa, los atajos de teclado y el tema.  
+Dicho esto, es recomendable comprobar los ajustes del programa, los atajos de teclado y el tema.
+
+![](http://flight-manual.atom.io/getting-started/images/settings.png) 
+
+Una característica fantástica de Atom es que te permite tener un explorador abierto junto al editor, que muestra los ficheros y directorios dentro del directorio actual.
+
+![](http://flight-manual.atom.io/getting-started/images/project-view.png)
+
+### Paquetes
+
+Atom tiene por defecto los paquetes necesarios para ofrecer una buena funcionalidad. Sin embargo Atom se apoya fuertemente en su comunidad de usuarios, estos pueden crear toda clase de paquetes y temas, y ofrecerlos al resto de usuarios interesados.
+En el apartado *Install* dentro del menú de ajustes podemos encontrar el buscador con el que podremos buscar los paquetes que nos interesen.
+Un paquete esencial en atom es ***linter***, éste nos permite interpretar el código más fácilmente. Lo que hace es analizar la sintaxis del programa, colorear las palabras claves e incluso indicar errores de sintaxis.
