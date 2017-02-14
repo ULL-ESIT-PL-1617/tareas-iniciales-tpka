@@ -17,10 +17,12 @@ Algunas de esas rutinas que han sido costumizadas son las siguientes:
 > $ git compare
 > $ git fork [--no-remote]
 
-    - Crea una bifurcación de nuestro proyecto original en Githun y lo añade a uno nuevo remoto bajo el nombre de usuario.
+    - Crea una bifurcación de nuestro proyecto original en Github y lo añade a uno nuevo ,remoto o no, bajo el nombre de usuario.
     
 > $ git pull-request
 > $ git ci-status
+
+    - Comprobar el estado de SHA para COMMIT en Github.
 
 > ###### *Nota: se puede utilizar hub como alias*
 
