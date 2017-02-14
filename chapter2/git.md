@@ -4,7 +4,7 @@
 
 # Git
 
-[Git](https://git-scm.com/) se trata de un sistema de control de versiones gratuito y de código abierto que permite desarrollar proyectos de manera rápida y eficiente. El control de versiones se puede llevar a cabo de manera local, centralizada o distribuida.
+[Git](https://git-scm.com/) se trata de un sistema de control de versiones gratuito y de código abierto que permite desarrollar proyectos de manera rápida y eficiente. El control de versiones se puede llevar a cabo de manera local, centralizada o distribuida. Esta disponible tanto para **Windows, Linux, como para Mac Osx.**
 
 ![](http://invistruct.com/wp-content/uploads/2012/08/centralized-vc.png)
 
@@ -23,7 +23,7 @@
   Una vez llevado a cabo, para crear un repositorio, simplemente ejecutar _**git init**_ o **git clone** \(para partir de repositorios remotos ya creados\) en cualquier directorio que hallamos creado explicitamente para esta tarea.  
     Otros comandos interesantes que nos permitirán realizar gran parte de las tareas a llevar a cabo en el entorno colaborativo son:
 
-  * Ramificación y mezcla:
+  * **Ramificación y mezcla:**
 
     > $ git branch
 
@@ -39,7 +39,7 @@
 
     > $ git merge
 
-  * Compartición y actualización y mezcla.
+  * **Compartición y actualización y mezcla.**
 
     > $ git fetch
 
