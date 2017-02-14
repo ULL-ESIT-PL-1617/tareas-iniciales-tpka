@@ -36,8 +36,10 @@
     > $ git log
 
     * Mostrar la lista de commits o confirmaciones realizadas.
-
+    
     > $ git merge
+      
+    * Unir dos o más historiales juntos.
 
   * **Compartición y actualización y mezcla.**
 
