@@ -8,14 +8,17 @@ Algunas de esas rutinas que han sido costumizadas son las siguientes:
 
 > $ git create [nombre] [-p] [-d descripcion] [-h pagina]
 
-    -  Crea un nuevo repositorio publico en Github a partir del repositorio actual y lo añade a origin en "git@github.USUARIO/REPOSITORIO.git". Además podremos añadir una página de carácter informativo enlazada a nuestro repositorio o una breve descripción. La opción -p permite crear un repositorio privado, en el caso de que se haya contratado el correspondiente [plan](/chapter2/creacion-de-usuario.md).
+    -  Crea un nuevo repositorio **publico** en **Github** a partir del repositorio actual y lo añade a origin en "git@github.usuario/repositorio.git". Además podremos añadir una **página** de carácter informativo enlazada a nuestro repositorio o una breve descripción. La opción **-p** permite crear un repositorio **privado**, en el caso de que se haya contratado el correspondiente [**plan**](/chapter2/creacion-de-usuario.md).
 
 > $ git browse
 
-    - Permite abrir repositorios en el navegador usando las variables almacenadas en la configuración git.
+    - Permite abrir repositorios en el **navegador** usando las variables almacenadas en la configuración git.
     
 > $ git compare
-> $ git fork
+> $ git fork [--no-remote]
+
+    - Crea una bifurcación de nuestro proyecto original en Githun y lo añade a uno nuevo remoto bajo el nombre de usuario.
+    
 > $ git pull-request
 > $ git ci-status
 
