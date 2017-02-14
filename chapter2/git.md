@@ -7,9 +7,9 @@ El control de versiones se puede llevar a cabo de manera local, centralizada o d
 
 * La comunicación entre estos nodos se debe llevar a cabo de manera segura y automatizada, por ello desde cada máquina local, deberemos hacer uso de un cifrado simétrico. Por lo tanto, deberemos generar una clave pública desde nuestra máquina local y establecer dicha conexión. El procedimiento es el siguiente:
 
-    1. Ejecutar ssh-keygen -t dsa en la máquina local para generar dos ficheros: ~/.ssh/id_dsa.pub (clave pública) y ~/.ssh/id_dsa (clave privada).
-    2. A continuación deberemos crear el fichero ~/.ssh/config, con el siguiente contenido PubkeyAcceptedKeyTypes +ssh-dss.
-    3. Por último, copiar el contenido del fichero ~/.ssh/id_dsa.pub en el apartado Settings -> SSH and GPG keys -> Add SSH key de nuestro perfil en Github desde un navegador, dar un título a esa conexión y confirmar.
+    **1.** Ejecutar **ssh-keygen -t dsa** en la máquina local para generar dos ficheros: ~/.ssh/id_dsa.pub (clave pública) y ~/.ssh/id_dsa (clave privada).
+    **2.** A continuación deberemos crear el fichero ~/.ssh/config, con el siguiente contenido PubkeyAcceptedKeyTypes +ssh-dss.
+    **3.** Por último, copiar el contenido del fichero ~/.ssh/id_dsa.pub en el apartado **Settings -> SSH and GPG keys -> Add SSH key** de nuestro perfil en Github desde un navegador, dar un título a esa conexión y confirmar.
     
 Antes de empezar a trabajar en nuestros proyectos, deberemos configurar nuestro usuario global de git y otros datos (mirar el manual para más detalles):
 
@@ -19,7 +19,7 @@ Antes de empezar a trabajar en nuestros proyectos, deberemos configurar nuestro 
 Una vez llevado a cabo, para crear un repositorio, simplemente ejecutar ***git init*** en cualquier directorio que hallamos creado explicitamente para esta tarea. 
 Otros comandos interesantes son:
 
-    1. git commit -m 'título de la confirmación'
-    2. git clone (ruta ssh o http)
-    3. git log --oneline --decorate --graph --all
-    4. git remote add nombre de la rama (ruta repositorio ya existente)
+    1. > git commit -m 'título de la confirmación'
+    2. > git clone (ruta ssh o http)
+    3. > git log --oneline --decorate --graph --all
+    4. > git remote add nombre de la rama (ruta repositorio ya existente)
