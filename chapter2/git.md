@@ -5,8 +5,9 @@
 # Git
 
 [Git](https://git-scm.com/) se trata de un sistema de control de versiones gratuito y de código abierto que permite desarrollar proyectos de manera rápida y eficiente. El control de versiones se puede llevar a cabo de manera local, centralizada o distribuida.
+[<img align="center" src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
-![Alt](https://git-scm.com/book/en/v2/images/distributed.png?style=centerme#right)
+![alt](http://invistruct.com/wp-content/uploads/2012/08/centralized-vc.png)
 
 * **Configuración de la conexión**: La comunicación entre estos nodos se debe llevar a cabo de manera segura y automatizada, por ello desde cada máquina local, deberemos hacer uso de un cifrado simétrico. Por lo tanto, deberemos generar una clave pública desde nuestra máquina local y establecer dicha conexión. El procedimiento es el siguiente:
 
