@@ -11,7 +11,7 @@ El control de versiones se puede llevar a cabo de manera local, centralizada o d
     **2.** A continuación deberemos crear el fichero **~/.ssh/config**, con el siguiente contenido **PubkeyAcceptedKeyTypes +ssh-dss**.
     **3.** Por último, copiar el contenido del fichero ~/.ssh/id_dsa.pub en el apartado **Settings -> SSH and GPG keys -> Add SSH key** de nuestro perfil en Github desde un navegador, dar un título a esa conexión y confirmar.
     
-* **Gestión de Git**: Antes de empezar a trabajar en nuestros proyectos, deberemos configurar nuestro usuario global de git y otros datos (mirar el manual para más detalles):
+* **Configuración de Git**: Antes de empezar a trabajar en nuestros proyectos, deberemos configurar nuestro usuario global de git y otros datos (mirar el manual para más detalles):
 
     > $ git config --global user.name "nombre de usuario"
     > $ git config --global user.email correo@ejemplo.com
