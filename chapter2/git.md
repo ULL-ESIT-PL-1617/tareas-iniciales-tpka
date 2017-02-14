@@ -2,8 +2,7 @@
 ---
 # Git
 
-[Git](https://git-scm.com/) se trata de un sistema de control de versiones gratuito y de código abierto que permite desarrollar proyectos de manera rápida y eficiente.  
-El control de versiones se puede llevar a cabo de manera local, centralizada o distribuida.
+[Git](https://git-scm.com/) se trata de un sistema de control de versiones gratuito y de código abierto que permite desarrollar proyectos de manera rápida y eficiente. El control de versiones se puede llevar a cabo de manera local, centralizada o distribuida.
 
 ![](https://git-scm.com/book/en/v2/images/distributed.png?style=centerme)
 
