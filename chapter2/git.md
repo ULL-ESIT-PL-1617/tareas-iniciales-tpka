@@ -16,10 +16,26 @@ El control de versiones se puede llevar a cabo de manera local, centralizada o d
     > $ git config --global user.name "nombre de usuario"
     > $ git config --global user.email correo@ejemplo.com
     
-    Una vez llevado a cabo, para crear un repositorio, simplemente ejecutar ***git init*** en cualquier directorio que hallamos creado explicitamente para esta tarea. 
+    Una vez llevado a cabo, para crear un repositorio, simplemente ejecutar ***git init*** o **git clone** (para partir de repositorios remotos ya creados) en cualquier directorio que hallamos creado explicitamente para esta tarea. 
     Otros comandos interesantes son:
     
-        1. > git commit -m 'título de la confirmación'
-        2. > git clone (ruta ssh o http)
-        3. > git log --oneline --decorate --graph --all
-        4. > git remote add nombre de la rama (ruta repositorio ya existente)
+    - Ramificación y mezcla:
+    
+         > git branch 
+         > git clone 
+         > git log
+         > git merge
+        
+    - Compartición y actualización y mezcla:
+    
+        > git fetch
+        > git pull
+        > git push
+        > git remote
+
+
+
+
+
+
+
