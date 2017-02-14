@@ -33,14 +33,25 @@ El control de versiones se puede llevar a cabo de manera local, centralizada o d
          
              - Mostrar la lista de commits o confirmaciones realizadas.
      
-         > $ git merge
+     > $ git merge
         
-    - Compartición y actualización y mezcla:
+        - Compartición y actualización y mezcla.
     
-        > $ git fetch
-        > $ git pull
-        > $ git push
-        > $ git remote
+    > $ git fetch
+            
+            - Decargar objetos y referencias de otros repositorios.
+            
+    > $ git pull
+        
+            - Integra con otro repositorio o rama local.
+        
+    > $ git push
+        
+            - Actualiza las referencias remotas  con los objetos asociados. 
+        
+    > $ git remote
+        
+            - Administrar un conjunto de repositorios controlados, tanto en remoto como en local.
 
 
 
