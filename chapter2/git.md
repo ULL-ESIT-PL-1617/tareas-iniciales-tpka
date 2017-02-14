@@ -5,7 +5,7 @@
 # Git
 
 [Git](https://git-scm.com/) se trata de un sistema de control de versiones gratuito y de código abierto que permite desarrollar proyectos de manera rápida y eficiente. El control de versiones se puede llevar a cabo de manera local, centralizada o distribuida.
-[<img align="center" src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img  src="http://www.google.com.au/images/nav_logo7.png?style=centerme">](http://google.com.au/)
 
 ![alt](http://invistruct.com/wp-content/uploads/2012/08/centralized-vc.png)
 
