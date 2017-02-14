@@ -21,17 +21,26 @@ El control de versiones se puede llevar a cabo de manera local, centralizada o d
     
     - Ramificación y mezcla:
     
-         > git branch 
-         > git clone 
-         > git log
-         > git merge
+     > $ git branch
+          
+             - Listar, crear o borrar ramas. Las ramas se tratan de hilos de trabajo independientes para un repositorio. Lo que permite trabajar con el mismo contenido de manera diferenciada.
+              
+     > $ git checkout
+             
+             - Cambiar entre ramas o reguardar árboles de directorios de trabajo
+                 
+     > $ git log
+         
+             - Mostrar la lista de commits o confirmaciones realizadas.
+     
+         > $ git merge
         
     - Compartición y actualización y mezcla:
     
-        > git fetch
-        > git pull
-        > git push
-        > git remote
+        > $ git fetch
+        > $ git pull
+        > $ git push
+        > $ git remote
 
 
 
