@@ -15,11 +15,17 @@ Algunas de esas rutinas que han sido costumizadas son las siguientes:
     - Permite abrir repositorios en el **navegador** usando las variables almacenadas en la configuración git.
     
 > $ git compare
+
+    - Despliega una **vista comparativa** en el navegador por defecto del sistema con información acerca de ramas, etiquestas de nombres o commits.
+
 > $ git fork [--no-remote]
 
     - Crea una bifurcación de nuestro proyecto original en Github y lo añade a uno nuevo ,remoto o no, bajo el nombre de usuario.
     
 > $ git pull-request
+
+    - Realiza una petición de arrastre del contenido de nuestro proyecto a Github, al cual apunta **origin** en remoto. 
+    
 > $ git ci-status
 
     - Comprobar el estado de SHA para COMMIT en Github.
