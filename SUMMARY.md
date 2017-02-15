@@ -16,16 +16,11 @@
   3.3. [Pandoc](pandoc.md)
 
 4.Gitbook
-  4.1. Creación de usuario
-  4.2. Markdown
+  4.1. [Creación de usuario](chapter4/crear-un-usuario-en-gitbooks.md)
+  4.2. [Markdown](chapter4/markdown.md)
 
-* [Introduction](README.md)
-* [Instalación de NodeJS](chapter1.md)
-* [Atom](atom.md)
-* [Pandoc](pandoc.md)
-<<<<<<< HEAD
-* [Markdown](markdown.md)
-* [Crear un Usuario en Gitbooks](crear-un-usuario-en-gitbooks.md)
+
+
 =======
 * [GitHub](github.md)
   * [Creación de usuario](chapter2/creacion-de-usuario.md)
