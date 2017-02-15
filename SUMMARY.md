@@ -3,8 +3,8 @@
 1. NodeJS
 
 2. Github
-  2.1. Creación de usuario
-  2.2. Git
+  2.1. [Creación de usuario](chapter2/creacion-de-usuario.md)
+  2.2. [Git](git.md)
   2.3. Cliente de Github (Mac osx y Windows)
   2.4. Hub
   2.5. Alojamiento de páginas en github.io
