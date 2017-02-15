@@ -8,7 +8,7 @@
   2.3. Cliente de Github (Mac osx y Windows)
   2.4. Hub
   2.5. Alojamiento de páginas en github.io
-  2.6. Gh-Pages (Última Actualización)
+  2.6. [Gh-Pages (Última Actualización)](chapter2/gh-pages.md)
   
 3. Herramientas de desarrollo
   3.1. [Cloud9](chapter3/c9.md)
