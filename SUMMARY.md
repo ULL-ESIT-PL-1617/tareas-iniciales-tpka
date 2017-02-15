@@ -2,12 +2,12 @@
 
 1. NodeJS
 
-2. Github
+2. [Github](chapter2/github.md)
   2.1. [Creación de usuario](chapter2/creacion-de-usuario.md)
-  2.2. [Git](git.md)
-  2.3. Cliente de Github (Mac osx y Windows)
-  2.4. Hub
-  2.5. Alojamiento de páginas en github.io
+  2.2. [Git](chapter2/git.md)
+  2.3. [Cliente de Github (Mac osx y Windows)](chapter2/github.md)
+  2.4. [Hub](chapter2/hub.md)
+  2.5. [Alojamiento de páginas en github.io](chapter2/github.io.md)
   2.6. [Gh-Pages (Última Actualización)](chapter2/gh-pages.md)
   
 3. Herramientas de desarrollo
