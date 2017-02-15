@@ -153,9 +153,10 @@ Tal que así:
     ~~~`
 
 De esta forma, obtendrás el siguiente resultado:
-
-    Creando códigos de bloque.
-    Puedes añadir tantas líneas y párrafos como quieras.
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.
+~~~~
 
 ***
 
@@ -173,11 +174,11 @@ Es decir
 
 También puedes separarlos mediante un espacio en blanco por pura estética.
 
-    * * *
-    - - -
-    _ _ _
-
 * * *
+- - -
+_ _ _
+ 
+***
 
 ## Elementos de línea
 
