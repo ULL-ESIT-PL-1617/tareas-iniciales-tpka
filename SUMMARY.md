@@ -4,7 +4,7 @@
 * [Github](chapter2/README.md)
     * [Creación de usuario](chapter2/creacion-de-usuario.md)
     * [Git](chapter2/git.md)
-    * [Cliente de Github (Mac osx y Windows)](chapter2/github.io.md)
+    * [Cliente de Github (Mac osx y Windows)](chapter2/github.md)
     * [Hub](chapter2/hub.md)
     * [Alojamiento de páginas en github.io](chapter2/github.io.md)
     * [Gh-Pages](chapter2/gh-pages.md) 
