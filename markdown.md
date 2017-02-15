@@ -242,7 +242,7 @@ _En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automati
 
 #### Links automáticos
 
-Verás esta forma **dentro de elementos varios**: [links automáticos](#linkauto)
+Verás esta forma **dentro de elementos varios**.
 
 ***
 
