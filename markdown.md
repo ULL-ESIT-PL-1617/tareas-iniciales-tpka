@@ -157,7 +157,7 @@ De esta forma, obtendrás el siguiente resultado:
     Creando códigos de bloque.
     Puedes añadir tantas líneas y párrafos como quieras.
 
-* * *
+***
 
 ### Reglas horizontales
 
