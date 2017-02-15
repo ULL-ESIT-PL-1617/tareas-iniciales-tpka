@@ -1,6 +1,6 @@
 # Summary
 
-1. NodeJS
+1. [NodeJS](chapter1/nodejs.md)
 
 2. [Github](chapter2/github.md)
   2.1. [Creación de usuario](chapter2/creacion-de-usuario.md)
@@ -15,17 +15,7 @@
   3.2. [Atom](chapter3/atom.md)
   3.3. [Pandoc](chapter3/pandoc.md)
 
-4.Gitbook
+4. Gitbook
   4.1. [Creación de usuario](chapter4/crear-un-usuario-en-gitbooks.md)
   4.2. [Markdown](chapter4/markdown.md)
-
-
-
-=======
-* [GitHub](github.md)
-  * [Creación de usuario](chapter2/creacion-de-usuario.md)
-  * [Cliente de Github](chapter2/github.md)
-  * [Git](chapter2/git.md)
-  * [Hub](chapter2/hub.md)
->>>>>>> origin/master
 
