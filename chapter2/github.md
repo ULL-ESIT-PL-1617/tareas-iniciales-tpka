@@ -1,6 +1,6 @@
 ###### *Universidad de La Laguna*
 ---
-# Cliente de Gihub
+# Cliente de Github
 **Github** permite la gestión de nuestros proyectos, en local, gracias a una seria de interfaces por línea de comandos y [clientes](https://desktop.github.com/ "clientes") de los que disponemos en descarga gratuita. Están disponibles tanto para **Windows, como para Mac Osx.** En Linux disponemos de la opción de descargar el paquete Git, en el cual profundizaremos en el siguiente [apartado](/chapter2/git.md).
  ![](https://pages.github.com/images/ghfm@2x.png)
  
