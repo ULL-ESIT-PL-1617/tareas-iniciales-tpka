@@ -1,9 +1,9 @@
 # Summary
 
-1. [NodeJS](chapter1/nodejs.md)
-2. [Github](chapter2/README.md)
-3. [Herramientas de desarrollo](chapter3/README.md)
-4. [Gitbook](chapter4/README.md)
+* [NodeJS](chapter1/nodejs.md)
+* [Github](chapter2/README.md)
+* [Herramientas de desarrollo](chapter3/README.md)
+* [Gitbook](chapter4/README.md)
 
 
 
