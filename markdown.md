@@ -76,13 +76,7 @@ Si la cita en cuestión se compone de **varios párrafos**, deberás añadir el 
 > 
 > Es decir, que ven en él al animal irracional, al animal que ríe, al animal que llora, al animal infeliz. — Friedrich Nietzsche
 
-Incluso puedes concatenar varios `>>` para crear **citas anidadas**.
-
-    > Esto sería una cita como la que acabas de ver.
-    > 
-    > > Dentro de ella puedes anidar otra cita.
-    > 
-    > La cita principal llegaría hasta aquí. 
+Incluso puedes concatenar varios `>>` para crear **citas anidadas**. 
 
 > Esto sería una cita como la que acabas de ver.
 > 
@@ -92,7 +86,7 @@ Incluso puedes concatenar varios `>>` para crear **citas anidadas**.
 
 Recuerda separar los saltos de línea con `>`, o `>>` si te encuentras dentro de la cita anidada; para crear párrafos dentro del mismo bloque de cita.
 
-* * *
+***
 
 ### Listas
 
@@ -102,30 +96,23 @@ A diferencia de lo que ocurre en HTML, generar listas en Markdown es tremendamen
 
 Para crear **listas desordenadas** utiliza **`*` asteriscos, `-` guiones, o `+` símbolo de suma**.
 
-    - Elemento de lista 1
-    - Elemento de lista 2
-    * Elemento de lista 3
-    * Elemento de lista 4
-    + Elemento de lista 5
-    + Elemento de lista 6
+    `- Elemento de lista 1
+     - Elemento de lista 2
+     * Elemento de lista 3
+     * Elemento de lista 4
+     + Elemento de lista 5
+     + Elemento de lista 6`
 
 Da igual qué elemento escojas, incluso puedes intercambiarlos. Todos se verán igual al procesarse.
 
 *   Elemento de lista 1
 *   Elemento de lista 2
-*   Elemento de lista 3
-*   Elemento de lista 4
-*   Elemento de lista 5
-*   Elemento de lista 6
+-   Elemento de lista 3
+-   Elemento de lista 4
++   Elemento de lista 5
++   Elemento de lista 6
 
 Para generar **listas anidadas** dentro de otras, simplemente tendrás que añadir **cuatro espacios en blanco antes del siguiente `*`, `-` o `+`.
-
-    - Elemento de lista 1
-    - Elemento de lista 2
-        - Elemento de lista 3
-        - Elemento de lista 4
-            - Elemento de lista 5
-            - Elemento de lista 6
 
 *   Elemento de lista 1
 *   Elemento de lista 2
@@ -152,18 +139,18 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: _“número.”_
         1.  Elemento de lista 5
         2.  Elemento de lista 6
 
-* * *
+***
 
 ### Códigos de bloque
 
-Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es **encerrar dicho párrafo entre dos líneas formadas por tres `~` virgulillas**.
+Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es **encerrar dicho párrafo entre dos líneas formadas por tres `~` 'tilde'.
 
 Tal que así:
 
-    ~~~
+   `~~~
     Creando códigos de bloque.
     Puedes añadir tantas líneas y párrafos como quieras.  
-    ~~~
+    ~~~`
 
 De esta forma, obtendrás el siguiente resultado:
 
