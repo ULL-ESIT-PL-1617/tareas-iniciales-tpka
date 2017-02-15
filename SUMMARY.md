@@ -11,9 +11,9 @@
   2.6. Gh-Pages (Última Actualización)
   
 3. Herramientas de desarrollo
-  3.1. [Cloud9](c9.md)
-  3.2. [Atom](atom.md)
-  3.3. [Pandoc](pandoc.md)
+  3.1. [Cloud9](chapter3/c9.md)
+  3.2. [Atom](chapter3/atom.md)
+  3.3. [Pandoc](chapter3/pandoc.md)
 
 4.Gitbook
   4.1. [Creación de usuario](chapter4/crear-un-usuario-en-gitbooks.md)
