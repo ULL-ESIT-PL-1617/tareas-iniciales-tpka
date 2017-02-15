@@ -229,20 +229,22 @@ Esto se ve más claro con un ejemplo.
     En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
 
     [blog]: http://blog.es/blog
+    
 
 La referencia `[blog]` puede estar incluida en cualquier parte del documento, así puedes organizarte mejor y de una manera más _limpia_, recopilando todas tus referencias en un mismo lugar.
 
 Además como ves a continuación, esta referencia **no se incluye en el resultado final**, sino que desaparece.
 
-_“Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac](http://limni.net/blog/)._
+_“Me llamo Pedro Lagüera y tengo un blog sobre [productividad mac][blog]._
 
-_En dicha [web](http://limni.net/blog/) recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.”_
+_En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.”_
+[blog]: http://blog.es/blog
 
 #### Links automáticos
 
 Verás esta forma **dentro de elementos varios**: [links automáticos](#linkauto)
 
-* * *
+***
 
 ### Código
 
@@ -262,7 +264,7 @@ Como ves, es muy útil para introducir código dentro de la misma línea o párr
 
 #### Texto preformateado `<pre>`
 
-La otra manera de añadir código en Markdown es **comenzar el párrafo con cuatro espacios en blanco**. Esto se corresponde con la etiqueta HTML `<pre>`
+La otra manera de añadir código en Markdown es **comenzar el párrafo con cuatro espacios en blanco**. Esto se corresponde con la etiqueta HTML `<pre>`.
 
         Esto es una línea de código
 
@@ -270,7 +272,7 @@ Se convierte en
 
     Esto es una línea de código
 
-Ojo, ¡estos espacios deberás incluirlos **en cada línea que escribas**! Para añadir código en bloque es mejor utilizar la sintaxis que viste anteriormente: [códigos de bloque](#codigosbloque).
+Ojo, ¡estos espacios deberás incluirlos **en cada línea que escribas**! Para añadir código en bloque es mejor utilizar la sintaxis que viste anteriormente: códigos de bloque.
 
 ### Imágenes
 
@@ -297,13 +299,13 @@ Ya que al añadir imágenes también estás tratando con URLs, puedes utilizar e
     [img1]: /ruta/a/la/imagen.jpg "Título alternativo"
     [img2]: /ruta/a/la/imagen2.jpg "Título alternativo"
 
-* * *
+***
 
 ## Elementos varios
 
 ### Links automáticos
 
-Cuando viste los [tipos de links](#links) te comenté que había un tipo más: los automáticos.
+Cuando viste los **tipos de links** te comenté que había un tipo más: los automáticos.
 
 Estos son necesarios cuando lo que quieres es **mostrar una URL completa**, y no un enlace enmascarado bajo una palabra o frase como ocurre con los links en línea.
 
@@ -311,9 +313,9 @@ Para generar links automáticos tan solo tendrás que rodearlos con los símbolo
 
     <http://www.limni.net>
 
-[http://www.limni.net](http://www.limni.net)
+<http://www.limni.net>
 
-* * *
+***
 
 ### Omitir Markdown
 
@@ -338,6 +340,6 @@ Se trata de la barra invertida `\`.
     .  punto
     !  exclamación
 
-* * *
+***
 
 Ahora que ya conoces todas las bondades de Markdown y has descubierto lo **sencillo** que resulta, seguro que quieres echarle el guante a alguna aplicación para empezar a escribir más cómodamente.
