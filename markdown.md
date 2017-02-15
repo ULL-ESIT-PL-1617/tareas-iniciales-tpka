@@ -174,9 +174,9 @@ Es decir
 
 También puedes separarlos mediante un espacio en blanco por pura estética.
 
-* * *
-- - -
-_ _ _
+    `* * *
+    - - -
+    _ _ _
  
 ***
 
@@ -228,7 +228,7 @@ Por supuesto si quieres utilizar los dos tipos de énfasis no tienes más que **
 
 </table>
 
-* * *
+***
 
 ### Links o enlaces
 
@@ -242,7 +242,7 @@ Se crean escribiendo la palabra o texto enlazada entre `[]` **corchetes**, y el 
 
 [CampusVirtual](http://www.campusvirtual.ull.es)
 
-[enlace en línea](http://www.limni.net)
+[Google](http://google.es)
 
 #### Links o enlaces como referencia
 
