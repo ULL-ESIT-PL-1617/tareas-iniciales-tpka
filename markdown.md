@@ -242,7 +242,13 @@ _En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automati
 
 #### Links automáticos
 
-Verás esta forma **dentro de elementos varios**.
+Los links automáticos son necesarios cuando lo que quieres es **mostrar una URL completa**, y no un enlace enmascarado bajo una palabra o frase como ocurre con los links en línea.
+
+Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
+
+    <http://www.limni.net>
+
+<http://www.limni.net>
 
 ***
 
@@ -298,22 +304,6 @@ Ya que al añadir imágenes también estás tratando con URLs, puedes utilizar e
 
     [img1]: /ruta/a/la/imagen.jpg "Título alternativo"
     [img2]: /ruta/a/la/imagen2.jpg "Título alternativo"
-
-***
-
-## Elementos varios
-
-### Links automáticos
-
-Cuando viste los **tipos de links** te comenté que había un tipo más: los automáticos.
-
-Estos son necesarios cuando lo que quieres es **mostrar una URL completa**, y no un enlace enmascarado bajo una palabra o frase como ocurre con los links en línea.
-
-Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
-
-    <http://www.limni.net>
-
-<http://www.limni.net>
 
 ***
 
