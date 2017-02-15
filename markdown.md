@@ -188,57 +188,7 @@ Markdown utiliza **asteriscos** o **guiones bajos** para enfatizar.
 
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir _cursivas_ o **negritas**.
 
-<table>
 
-<thead>
-
-<tr>
-
-<th>Markdown</th>
-
-<th>Resultado</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>*cursiva*</td>
-
-<td>_cursiva_</td>
-
-</tr>
-
-<tr>
-
-<td>_cursiva_</td>
-
-<td>_cursiva_</td>
-
-</tr>
-
-<tr>
-
-<td>**negrita**</td>
-
-<td>**negrita**</td>
-
-</tr>
-
-<tr>
-
-<td>__negrita__</td>
-
-<td>**negrita**</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 Por supuesto si quieres utilizar los dos tipos de énfasis no tienes más que **_combinar la sintaxis_**, envolviendo la palabra entre tres asteriscos o tres guiones bajos.
 
@@ -290,33 +240,9 @@ Son los enlaces de toda la vida. Como su nombre indica, se encuentran en línea 
 
 Se crean escribiendo la palabra o texto enlazada entre `[]` **corchetes**, y el link en cuestión entre `()` **paréntesis**.
 
-<table>
+[CampusVirtual](http://www.campusvirtual.ull.es)
 
-<thead>
-
-<tr>
-
-<th>Markdown</th>
-
-<th>Resultado</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>[enlace en línea](http://www.limni.net)</td>
-
-<td>[enlace en línea](http://www.limni.net)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[enlace en línea](http://www.limni.net)
 
 #### Links o enlaces como referencia
 
