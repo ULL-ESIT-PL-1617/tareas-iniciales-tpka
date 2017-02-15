@@ -1,3 +1,0 @@
-# Instalacón de NodeJS
-
-PRUEBA
