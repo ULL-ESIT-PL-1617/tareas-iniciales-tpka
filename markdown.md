@@ -188,45 +188,11 @@ Markdown utiliza **asteriscos** o **guiones bajos** para enfatizar.
 
 Simplemente tendrás que envolver palabras o textos en éstos símbolos para conseguir _cursivas_ o **negritas**.
 
+* Si envuelves una palabra con **un** `*` o `_`, entonces esta se mostrará en cursiva.
 
+* Si envuelves una palabra con **dos** `**` o `__`, entonces esta se mostrará en **negrita**.
 
-Por supuesto si quieres utilizar los dos tipos de énfasis no tienes más que **_combinar la sintaxis_**, envolviendo la palabra entre tres asteriscos o tres guiones bajos.
-
-<table>
-
-<thead>
-
-<tr>
-
-<th>Markdown</th>
-
-<th>Resultado</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>***cursiva y negrita***</td>
-
-<td>**_cursiva y negrita_**</td>
-
-</tr>
-
-<tr>
-
-<td>___cursiva y negrita___</td>
-
-<td>**_cursiva y negrita_**</td>
-
-</tr>
-
-</tbody>
-
-</table>
+* Si envuelves una palabra con **tres** `***` o `___`, entonces esta se mostrará en ***negrita y cursiva***. 
 
 ***
 
@@ -258,11 +224,11 @@ Esto quiere decir que en tu texto enlazarás **_palabras o códigos concretos_**
 
 Esto se ve más claro con un ejemplo.
 
-    Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog].
+    Me llamo Pedro Lagüera y tengo un blog sobre [productividad MacOS][blog].
 
     En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
 
-    [blog]: http://limni.net/blog/
+    [blog]: http://blog.es/blog
 
 La referencia `[blog]` puede estar incluida en cualquier parte del documento, así puedes organizarte mejor y de una manera más _limpia_, recopilando todas tus referencias en un mismo lugar.
 
