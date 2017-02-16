@@ -10,3 +10,6 @@ Tarea en gitbook
  
  Enunciado de la Práctica
  https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales.html
+ 
+ Página de la Asignatura PL16-17
+ https://campusvirtual.ull.es/1617/course/view.php?id=1148
