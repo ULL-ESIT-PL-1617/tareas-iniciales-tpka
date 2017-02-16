@@ -1,9 +1,9 @@
 # Tareas Iniciales
 
 Componentes:
-* Pedro Miguel Lagüera Cabrera
-* Tarun Mohandas Daryanani
-* Abián Torres Torres
+* [Pedro Miguel Lagüera Cabrera](https://plaguera.github.io)
+* [Tarun Mohandas Daryanani](https://alu0100891782.github.io)
+* [Abián Torres Torres](https://alu0100887686.github.io)
 
 Tarea en gitbook
  https://www.gitbook.com/book/alu0100891782/tareas-iniciales-tpka/details
